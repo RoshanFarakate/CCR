@@ -1,0 +1,2 @@
+# CCR
+Candidate Credibility Rating
